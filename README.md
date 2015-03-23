@@ -22,6 +22,7 @@ This runs the application and then the test case--but does not generate the jar 
 To create this small project, I:
 - Used Spring Tool Suite 3.6.4 [http://spring.io/tools/sts](http://spring.io/tools/sts)
 - Used [https://spring.io/guides/gs/accessing-data-mongodb/](https://spring.io/guides/gs/accessing-data-mongodb/)
+- Consulted [http://projects.spring.io/spring-boot/](http://projects.spring.io/spring-boot/)
 - Installed MongoDB on Windows (7 pro) and on AWS EC2 (AWS Linux)
 
 #References:
